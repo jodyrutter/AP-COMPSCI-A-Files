@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CashRegister()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ type\ CashRegister.\r\n
+comment1.params=cashOnHand
+comment1.target=CashRegister(int)
+comment1.text=\r\n\ One\ parameter\ constructor\ for\ objects\ of\ type\ CashRegister.\r\n\ @param\ cashOnHand\ Amount\ of\ money\ in\ the\ cash\ register.\ Must\ be\ greater\ than\ zero.\r\n
+comment2.params=newCashOnHand
+comment2.target=void\ setCashOnHand(int)
+comment2.text=\r\n\ Setter\ method\ to\ set\ cash\ on\ hand.\r\n\ @param\ newCashOnHand\ New\ amount\ of\ money\ in\ the\ cash\ register.\ Must\ be\ greater\ than\ zero.\r\n
+comment3.params=amountAdded
+comment3.target=void\ acceptAmount(int)
+comment3.text=\r\n\ Method\ to\ add\ an\ amount\ to\ cash\ on\ hand.\r\n\ @param\ amountAdded\ Amount\ to\ add\ to\ cash\ on\ hand.\r\n
+numComments=4

@@ -1,0 +1,9 @@
+Average                    2           964                  105
+Maximum                    5          1002                  173
+Minimum                    1           882                   75
+
+Numbeter of category 1: 26
+Numbeter of category 2: 11
+Numbeter of category 3: 14
+Numbeter of category 4: 4
+Numbeter of category 5: 4

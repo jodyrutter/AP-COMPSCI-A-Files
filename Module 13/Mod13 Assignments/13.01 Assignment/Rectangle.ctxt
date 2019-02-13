@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=l\ w
+comment0.target=Rectangle(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ rectangle\r\n
+comment1.params=
+comment1.target=int\ getLength()
+comment1.text=\r\n\ Getter\ method\ to\ return\ the\ length\ of\ a\ shape.\r\n\ @return\ length\ Variable\ for\ the\ length\ of\ a\ shape.\r\n
+comment2.params=
+comment2.target=int\ getWidth()
+comment2.text=\r\n\ Getter\ method\ to\ return\ the\ width\ of\ a\ shape.\r\n\ @return\ width\ Variable\ for\ the\ width\ of\ a\ shape.\r\n
+numComments=3

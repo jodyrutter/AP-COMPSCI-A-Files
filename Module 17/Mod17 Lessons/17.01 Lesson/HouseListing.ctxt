@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=a\ ct\ s\ z\ c
+comment0.target=HouseListing(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ HouseListing\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment10.params=
+comment10.target=double\ getCost()
+comment11.params=c
+comment11.target=void\ setCost(double)
+comment2.params=
+comment2.target=java.lang.String\ getAddress()
+comment3.params=a
+comment3.target=void\ setAddress(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCity()
+comment5.params=c
+comment5.target=void\ setCity(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getState()
+comment7.params=s
+comment7.target=void\ setState(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getZip()
+comment9.params=z
+comment9.target=void\ setZip(java.lang.String)
+numComments=12

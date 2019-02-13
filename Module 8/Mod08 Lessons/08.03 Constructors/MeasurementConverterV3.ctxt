@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MeasurementConverterV3()
+comment1.params=
+comment1.target=void\ printPurpose()
+comment2.params=ft
+comment2.target=double\ convertFeetToMiles(double)
+comment3.params=mi
+comment3.target=double\ convertMilesToFeet(double)
+comment4.params=mi
+comment4.target=double\ convertMilesToKilometers(double)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

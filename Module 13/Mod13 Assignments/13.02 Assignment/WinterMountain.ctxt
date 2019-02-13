@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=length\ width\ mountains\ temp
+comment0.target=WinterMountain(int,\ int,\ int,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ WinterMountain.\r\n\ @param\ length\ Parameter\ indicating\ the\ length\ of\ a\ game\ map.\r\n\ @param\ width\ Parameter\ indicating\ the\ width\ of\ a\ game\ map.\r\n\ @param\ mountains\ Parameter\ indicating\ the\ number\ of\ mountains\ on\ a\ game\ map\r\n\ @param\ temp\ Parameter\ indicating\ the\ temperature\ in\ the\ map.\r\n
+comment1.params=
+comment1.target=java.lang.String\ terrainDescription3()
+comment1.text=\r\n\ Makes\ a\ string\ that\ contains\ the\ dimensions,\ number\ of\ mountains,\ and\ temperature\ of\ a\ game\ map.\r\n\ @return\ Value\ containing\ dimensions,\ number\ of\ mountains,\ and\ temperature\ of\ a\ game\ map.\r\n
+numComments=2

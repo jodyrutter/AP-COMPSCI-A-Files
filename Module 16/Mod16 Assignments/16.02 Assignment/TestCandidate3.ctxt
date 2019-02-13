@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=election
+comment0.target=int\ getTotal(CandidateV2[])
+comment0.text=\r\n\ Method\ to\ find\ the\ total\ votes\ cast\ in\ an\ election.\r\n\ @param\ election\ Array\ of\ candidates\ and\ the\ numbet\ of\ votes\ they\ got.\r\n\ @return\ Total\ number\ of\ votes\ cast\ in\ an\ election.\r\n
+comment1.params=election
+comment1.target=void\ printResults(CandidateV2[])
+comment1.text=\r\n\ Method\ to\ print\ a\ table\ displaying\ the\ results\ of\ an\ election.\r\n\ @param\ election\ Array\ of\ candidates\ and\ the\ numbet\ of\ votes\ they\ got.\r\n
+comment2.params=election\ find\ replace
+comment2.target=void\ replaceName(CandidateV2[],\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Method\ to\ replace\ the\ name\ of\ a\ candidate.\r\n\ @param\ election\ Array\ of\ candidates\ and\ the\ number\ of\ votes\ they\ got.\r\n\ @param\ find\ Name\ to\ find.\r\n\ @param\ replace\ Name\ to\ replace\ the\ old\ name.\r\n
+comment3.params=election\ find\ replace
+comment3.target=void\ replaceVotes(CandidateV2[],\ java.lang.String,\ int)
+comment3.text=\r\n\ Method\ to\ replace\ the\ name\ of\ a\ candidate.\r\n\ @param\ election\ Array\ of\ candidates\ and\ the\ number\ of\ votes\ they\ got.\r\n\ @param\ find\ Name\ to\ find.\r\n\ @param\ replace\ numVotes\ to\ replace\ the\ old\ numVotes.\r\n\ @return\ Edited\ election.\r\n
+comment4.params=election\ find\ replaceName\ replaceVotes
+comment4.target=void\ replaceCandidate(CandidateV2[],\ java.lang.String,\ java.lang.String,\ int)
+comment4.text=\r\n\ Method\ to\ replace\ the\ name\ of\ a\ candidate.\r\n\ @param\ election\ Array\ of\ candidates\ and\ the\ number\ of\ votes\ they\ got.\r\n\ @param\ find\ candidate\ name\ to\ find.\r\n\ @param\ replaceName\ candidate\ name\ to\ replace\ the\ old\ candidate\ name.\r\n\ @param\ replaceVotes\ candidate\ votes\ to\ replace\ the\ old\ candidate\ votes.\r\n\ @return\ Edited\ Election.\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Main\ Method.\r\n
+numComments=6

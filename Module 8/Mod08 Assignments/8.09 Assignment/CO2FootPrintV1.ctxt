@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=gals
+comment0.target=CO2FootPrintV1(double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ CO2FootPrintV1\r\n\ @param\ myGallonsUsed\ Variable\ for\ gallons\ of\ gas\ used.\r\n
+comment1.params=
+comment1.target=void\ calcTonsCO2()
+comment1.text=\r\n\ Mutator\ method\ to\ calculate\ the\ amount\ of\ CO2\ emitted\ in\ tons\ by\ myGallons\ (no\ parameters).\r\n
+comment2.params=
+comment2.target=void\ convertTonsToPoundsCO2()
+comment2.text=\r\n\ Mutator\ method\ to\ calculate\ the\ amount\ of\ CO2\ emited\ in\ pounds\ given\ myTonsCO2\ (no\ parameters).\r\n
+comment3.params=
+comment3.target=double\ getTonsCO2()
+comment3.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ myTonsCO2\ (no\ parameters).\r\n\ @return\ Tons\ of\ CO2\ emitted.\r\n
+comment4.params=
+comment4.target=double\ getPoundsCO2()
+comment4.text=\r\n\ Getter\ method\ to\ return\ the\ value\ of\ myPoundsCO2\ (no\ parameters).\r\n\ @return\ Pounds\ of\ CO2\ emitted.\r\n
+numComments=5

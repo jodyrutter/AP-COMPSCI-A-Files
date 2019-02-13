@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=l\ w\ h
+comment0.target=Box3(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ box\r\n
+comment1.params=
+comment1.target=int\ getHeight()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=boxShape
+comment3.target=boolean\ equals(java.lang.Object)
+comment3.text=\r\n\ Method\ to\ test\ whether\ two\ objects\ are\ equal.\r\n\ @return\ boolean\ telling\ if\ two\ objects\ are\ equal.\r\n
+numComments=4

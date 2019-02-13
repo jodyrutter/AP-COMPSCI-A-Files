@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=void\ acceptInput(MorseCode)
+comment0.text=\r\n\ Static\ method\ to\ accept\ user\ input\ and\ print\ a\ morse\ code\ message\ to\ screen.\r\n
+comment1.params=morseCode
+comment1.target=java.lang.String\ findMorseCode(java.lang.String)
+comment1.text=\r\n\ Static\ method\ that\ returns\ an\ English\ sentence\ in\ morse\ code.\r\n\ @param\ English\ string\ that\ will\ be\ converted\ to\ morse\ code.\r\n\ @return\ An\ English\ sentence\ in\ morse\ code.\r\n
+numComments=2

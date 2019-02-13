@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=title\ year\ singer
+comment0.target=Music2(java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ Music2.\r\n\ @param\ title\ Title\ of\ the\ song.\r\n\ @param\ year\ Year\ the\ song\ was\ released.\r\n\ @param\ singer\ Singer\ of\ the\ song.\r\n
+comment1.params=newTitle
+comment1.target=void\ setTitle(java.lang.String)
+comment1.text=\r\n\ Setter\ method\ to\ set\ title.\r\n\ @param\ newTitle\ New\ title.\r\n
+comment2.params=newYear
+comment2.target=void\ setYear(int)
+comment2.text=\r\n\ Setter\ method\ to\ set\ year.\r\n\ @param\ newYear\ New\ year.\r\n
+comment3.params=newSinger
+comment3.target=void\ setSinger(java.lang.String)
+comment3.text=\r\n\ Setter\ method\ to\ set\ singer.\r\n\ @param\ newSinger\ New\ singer.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ toString\ method\ that\ converts\ a\ music\ object\ into\ a\ string.\r\n\ @return\ String\ consisting\ of\ a\ song's\ title,\ year,\ and\ singer.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getTitle()
+comment5.text=\r\n\ Getter\ method\ to\ return\ a\ song\ title.\r\n\ @return\ title.\r\n
+comment6.params=
+comment6.target=int\ getYear()
+comment6.text=\r\n\ Getter\ method\ to\ return\ a\ song\ year.\r\n\ @return\ year.\r\n
+comment7.params=
+comment7.target=java.lang.String\ getSinger()
+comment7.text=\r\n\ Getter\ method\ to\ return\ a\ song\ singer.\r\n\ @return\ singer.\r\n
+numComments=8

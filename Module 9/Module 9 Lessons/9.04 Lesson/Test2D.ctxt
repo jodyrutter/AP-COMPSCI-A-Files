@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=scores\ testNum\ value
+comment0.target=void\ curveTest(java.lang.Integer[][],\ int,\ int)
+comment1.params=scores
+comment1.target=void\ printScores(java.lang.Integer[][])
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=gas\ electricBill\ electricPrice\ people\ bulbs\ paper\ plastic\ glass\ cans
+comment0.target=CO2FootprintV2(double,\ double,\ double,\ int,\ int,\ boolean,\ boolean,\ boolean,\ boolean)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ CO2Footprint.\r\n\ @param\ gas\ Annual\ estimate\ of\ gallons\ of\ gas\ used.\r\n\ @param\ electricBill\ Average\ electric\ bill.\r\n\ @param\ electricPrice\ Average\ electric\ price\ per\ KWH.\r\n\ @param\ people\ Number\ of\ people\ living\ in\ the\ household.\r\n\ @param\ bulbs\ Number\ of\ incandescent\ bulbs\ in\ the\ house.\r\n\ @param\ paper\ Whether\ or\ not\ paper\ is\ being\ recycled.\r\n\ @param\ plastic\ Whether\ or\ not\ plastic\ is\ being\ recycled.\r\n\ @param\ glass\ Whether\ or\ not\ glass\ is\ being\ recycled.\r\n\ @param\ cans\ Whether\ or\ not\ cans\ are\ being\ recycled.\r\n
+comment1.params=
+comment1.target=double\ calcCO2FromGas()
+comment1.text=\r\n\ Method\ to\ calculate\ and\ return\ total\ CO2\ emissions\ by\ gas\ (no\ parameters).\r\n\ @return\ Total\ CO2\ emissions,\ in\ pounds,\ by\ gas.\r\n
+comment2.params=
+comment2.target=double\ calcCO2FromElectric()
+comment2.text=\r\n\ Method\ to\ calculate\ and\ return\ total\ CO2\ emissions\ by\ electric\ (no\ parameters).\r\n\ @return\ Total\ CO2\ emissions,\ in\ pounds,\ by\ electric.\r\n
+comment3.params=
+comment3.target=double\ calcCO2FromWaste()
+comment3.text=\r\n\ Method\ to\ calculate\ and\ return\ total\ CO2\ emissions\ by\ waste\ (no\ parameters).\r\n\ @return\ Total\ CO2\ emissions,\ in\ pounds,\ from\ waste(without\ accounting\ for\ recycling).\r\n
+comment4.params=
+comment4.target=double\ calcCO2ReductionFromRecycling()
+comment4.text=\r\n\ Method\ to\ calculate\ and\ return\ total\ emission\ reduction\ from\ recycling\ (no\ parameters).\r\n\ @return\ Total\ CO2\ emissions,\ in\ pounds,\ reduced\ by\ recycling.\r\n
+comment5.params=
+comment5.target=double\ calcCO2ReductionFromBulbs()
+comment5.text=\r\n\ Method\ to\ calculate\ and\ return\ total\ emission\ reduction\ from\ using\ incandescent\ bulbs\ (no\ parameters).\r\n\ @return\ Total\ CO2\ emissions,\ in\ pounds,\ reduced\ by\ using\ incandescent\ bulbs.\r\n
+comment6.params=
+comment6.target=double\ calcNetCO2Emissions()
+comment6.text=\r\n\ Method\ to\ calculate\ and\ return\ total\ net\ emissions\ (no\ parameters).\r\n\ @return\ Total\ net\ CO2\ emissions\ in\ pounds.\r\n
+numComments=7

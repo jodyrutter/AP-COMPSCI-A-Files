@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=myMovies
+comment0.target=void\ printMovies(Movie3[])
+comment0.text=\r\n\ Print\ the\ movies\ array.\r\n\ @param\ myMovies\ Array\ of\ movies.\r\n
+comment1.params=myMovies\ order
+comment1.target=void\ sortTitles(Movie3[],\ int)
+comment1.text=\r\n\ Method\ to\ sort\ movies\ based\ on\ title.\r\n\ @param\ myMovies\ Array\ of\ movies.\r\n\ @param\ order\ Number\ of\ either\ 1\ or\ 2\ that\ chooses\ whether\ to\ sort\ an\ item\ in\ ascending\ or\ decending\ order.\r\n
+comment2.params=myMovies\ order
+comment2.target=void\ sortYears(Movie3[],\ int)
+comment2.text=\r\n\ Method\ to\ sort\ movies\ based\ on\ year.\r\n\ @param\ myMovies\ Array\ of\ movies.\r\n\ @param\ order\ Number\ of\ either\ 1\ or\ 2\ that\ chooses\ whether\ to\ sort\ an\ item\ in\ ascending\ or\ decending\ order.\r\n
+comment3.params=myMovies\ order
+comment3.target=void\ sortStudios(Movie3[],\ int)
+comment3.text=\r\n\ Method\ to\ sort\ movies\ based\ on\ studio.\r\n\ @param\ myMovies\ Array\ of\ movies.\r\n\ @param\ order\ Number\ of\ either\ 1\ or\ 2\ that\ chooses\ whether\ to\ sort\ an\ item\ in\ ascending\ or\ decending\ order.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Main\ method.\r\n
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=upperLimit
+comment0.target=PrimeNumbers(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ PrimeNumbers.\r\n\ @param\ upperLimit\ Variable\ representing\ the\ upper\ limit\ of\ prime\ numbers.\r\n
+comment1.params=
+comment1.target=void\ reachLimit()
+comment1.text=\r\n\ Method\ to\ input\ values\ into\ a\ method\ that\ decides\ if\ those\ values\ are\ prime.\r\n
+comment2.params=number
+comment2.target=void\ prime(int)
+comment2.text=\r\n\ Method\ to\ determine\ of\ a\ number\ is\ prime.\r\n\ @param\ number\ Variable\ to\ be\ tested\ to\ determine\ if\ it's\ prime\ or\ not.\r\n
+numComments=3

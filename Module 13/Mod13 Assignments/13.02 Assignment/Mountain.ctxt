@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=length\ width\ numberOfMountains
+comment0.target=Mountain(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ Mountain.\r\n\ @param\ length\ Parameter\ indicating\ the\ length\ of\ a\ game\ map.\r\n\ @param\ width\ Parameter\ indicating\ the\ width\ of\ a\ game\ map.\r\n
+comment1.params=
+comment1.target=java.lang.String\ terrainDescription2()
+comment1.text=\r\n\ Method\ to\ extend\ the\ terrain\ size\ string.\r\n\ @return\ String\ containing\ the\ dimensions\ of\ a\ game\ map\ and\ the\ number\ of\ mountains\ on\ that\ map.\r\n
+comment2.params=
+comment2.target=int\ getMountains()
+comment2.text=\r\n\ Getter\ method\ to\ return\ the\ number\ of\ mountains.\r\n\ @return\ Number\ of\ mountains.\r\n
+numComments=3

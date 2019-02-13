@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=length\ width\ trees
+comment0.target=Forest(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ Forest.\r\n\ @param\ length\ Parameter\ indicating\ the\ length\ of\ a\ game\ map.\r\n\ @param\ width\ Parameter\ indicating\ the\ width\ of\ a\ game\ map.\r\n\ @param\ trees\ Parameter\ indicating\ the\ number\ of\ trees\ on\ a\ game\ map.\r\n
+comment1.params=
+comment1.target=java.lang.String\ terrainDescription1()
+comment1.text=\r\n\ Method\ to\ make\ a\ string\ containing\ the\ dimensions\ and\ amount\ of\ trees\ on\ a\ game\ map.\r\n\ @return\ String\ containing\ the\ dimensions\ and\ amount\ of\ trees\ on\ a\ game\ map.\r\n
+numComments=2

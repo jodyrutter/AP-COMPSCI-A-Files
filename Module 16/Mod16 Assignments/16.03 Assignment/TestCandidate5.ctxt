@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=election
+comment0.target=int\ getTotal(CandidateV3[])
+comment0.text=\r\n\ Method\ to\ find\ the\ total\ votes\ cast\ in\ an\ election.\r\n\ @param\ election\ Array\ of\ candidates\ and\ the\ numbet\ of\ votes\ they\ got.\r\n\ @return\ Total\ number\ of\ votes\ cast\ in\ an\ election.\r\n
+comment1.params=election
+comment1.target=void\ printResults(CandidateV3[])
+comment1.text=\r\n\ Method\ to\ print\ a\ table\ displaying\ the\ results\ of\ an\ election.\r\n\ @param\ election\ Array\ of\ candidates\ and\ the\ numbet\ of\ votes\ they\ got.\r\n
+comment2.params=election\ position\ name\ numVotes
+comment2.target=void\ insertPosition(CandidateV3[],\ int,\ java.lang.String,\ int)
+comment2.text=\r\n\ Method\ to\ insert\ a\ candidate\ in\ a\ position.\r\n\ @param\ election\ Array\ of\ candidates\ and\ the\ number\ of\ votes\ they\ got.\r\n\ @param\ position\ Position\ to\ insert\ the\ new\ candidate.\r\n\ @param\ name\ Name\ of\ new\ candidate.\r\n\ @param\ numVotes\ votes\ to\ insert.\r\n
+comment3.params=election\ find\ name\ numVotes
+comment3.target=void\ insertCandidate(CandidateV3[],\ java.lang.String,\ java.lang.String,\ int)
+comment3.text=\r\n\ Method\ to\ insert\ a\ candidate\ in\ a\ position.\r\n\ @param\ election\ Array\ of\ candidates\ and\ the\ number\ of\ votes\ they\ got.\r\n\ @param\ find\ Name\ to\ find\ as\ position\ to\ insert\ the\ new\ candidate.\r\n\ @param\ name\ Name\ of\ new\ candidate.\r\n\ @param\ numVotes\ votes\ to\ insert.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Main\ Method.\r\n
+numComments=5

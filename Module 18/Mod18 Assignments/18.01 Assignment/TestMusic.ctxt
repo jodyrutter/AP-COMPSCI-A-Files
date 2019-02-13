@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=myMusic
+comment0.target=void\ printMusic(Music[])
+comment0.text=\r\n\ Method\ to\ print\ myMusic.\r\n\ @param\ myMusic\ Array\ of\ songs.\r\n
+comment1.params=myMusic\ find
+comment1.target=void\ searchTitle(Music[],\ java.lang.String)
+comment1.text=\r\n\ Method\ to\ find\ a\ song\ based\ on\ title.\r\n\ @param\ myMusic\ Array\ of\ songs.\r\n\ @param\ find\ Title\ to\ find.\r\n
+comment2.params=myMusic\ find
+comment2.target=void\ searchYear(Music[],\ int)
+comment2.text=\r\n\ Method\ to\ find\ songs\ based\ on\ year.\r\n\ @param\ myMusic\ Array\ of\ songs.\r\n\ @param\ find\ year\ to\ find.\r\n
+comment3.params=myMusic\ find
+comment3.target=void\ searchSinger(Music[],\ java.lang.String)
+comment3.text=\r\n\ Method\ to\ find\ songs\ based\ on\ singer.\r\n\ @param\ myMusic\ Array\ of\ songs.\r\n\ @param\ find\ Song\ to\ find.\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Main\ method.\r\n
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sideA\ sideB\ sideC
+comment0.target=Triangle(double,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ Triangle.\r\n\ @param\ sideA\ Side\ 1\ of\ a\ triangle.\r\n\ @param\ sideB\ Side\ 2\ of\ a\ triangle.\r\n\ @param\ sideC\ Side\ 3\ of\ a\ triangle.\r\n
+comment1.params=
+comment1.target=double\ getSideA()
+comment1.text=\r\n\ Getter\ method\ to\ return\ mySideA.\r\n\ @return\ mySideA\ side\ 1\ of\ a\ triangle.\r\n
+comment2.params=
+comment2.target=double\ getSideB()
+comment2.text=\r\n\ Getter\ method\ to\ return\ mySideB.\r\n\ @return\ mySideB\ side\ 2\ of\ a\ triangle.\r\n
+comment3.params=
+comment3.target=double\ getSideC()
+comment3.text=\r\n\ Getter\ method\ to\ return\ mySideC.\r\n\ @return\ mySideC\ side\ 3\ of\ a\ triangle.\r\n
+numComments=4

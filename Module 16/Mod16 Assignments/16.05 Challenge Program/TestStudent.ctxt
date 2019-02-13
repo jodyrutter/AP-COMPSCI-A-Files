@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=myClass
+comment0.target=void\ printBook(java.util.List)
+comment0.text=\r\n\ Mthod\ to\ print\ the\ grade\ book.\r\n\ @param\ myClass\ Array\ list\ containing\ the\ names\ and\ grades\ of\ students.\r\n
+comment1.params=myClass\ find\ replace
+comment1.target=void\ replaceName(java.util.List,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Method\ to\ replace\ a\ student's\ name\ with\ a\ new\ one.\r\n\ @param\ myClass\ Array\ list\ containing\ the\ names\ and\ grades\ of\ students.\r\n\ @param\ find\ Name\ to\ find.\r\n\ @param\ replace\ Name\ to\ replace\ the\ old\ student\ name.\r\n
+comment2.params=myClass\ find\ quizNum\ quizValue
+comment2.target=void\ replaceQuiz(java.util.List,\ java.lang.String,\ int,\ int)
+comment2.text=\r\n\ Method\ to\ replace\ a\ student's\ quiz\ grade\ with\ a\ new\ one.\r\n\ @param\ myClass\ Array\ list\ containing\ the\ names\ and\ grades\ of\ students.\r\n\ @param\ find\ Name\ to\ find.\r\n\ @param\ quizNum\ The\ quiz\ number\ that\ contains\ the\ grade\ to\ replace.\r\n\ @param\ quizValue\ value\ to\ replace\ the\ old\ quiz\ grade.\r\n
+comment3.params=myClass\ find\ replaceName\ replaceQz1\ replaceQz2\ replaceQz3\ replaceQz4\ replaceQz5
+comment3.target=void\ replaceStudent(java.util.List,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment3.text=\r\n\ Method\ to\ replace\ a\ student\ with\ another\ student.\r\n\ @param\ myClass\ Array\ list\ containing\ the\ names\ and\ grades\ of\ students.\r\n\ @param\ find\ Name\ of\ student\ to\ replace.\r\n\ @param\ replaceName\ Name\ to\ replace\ the\ old\ student's\ name.\r\n\ @param\ replaceQz1\ Quiz1\ grade\ to\ replace\ the\ old\ student's\ Quiz1\ grade.\r\n\ @param\ replaceQz2\ Quiz2\ grade\ to\ replace\ the\ old\ student's\ Quiz2\ grade.\r\n\ @param\ replaceQz3\ Quiz3\ grade\ to\ replace\ the\ old\ student's\ Quiz3\ grade.\r\n\ @param\ replaceQz4\ Quiz4\ grade\ to\ replace\ the\ old\ student's\ Quiz4\ grade.\r\n\ @param\ replaceQz5\ Quiz5\ grade\ to\ replace\ the\ old\ student's\ Quiz5\ grade.\r\n
+comment4.params=myClass\ find\ name\ qz1\ qz2\ qz3\ qz4\ qz5
+comment4.target=void\ insertStudent(java.util.List,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment4.text=\r\n\ Method\ to\ insert\ a\ student.\r\n\ @param\ myClass\ Array\ list\ containing\ the\ names\ and\ grades\ of\ students.\r\n\ @param\ find\ Name\ to\ insert\ the\ new\ student\ at.\r\n\ @param\ name\ Name\ of\ student\ to\ add.\r\n\ @param\ qz1\ Quiz\ 1\ grade\ for\ the\ new\ student.\r\n\ @param\ qz2\ Quiz\ 2\ grade\ for\ the\ new\ student.\r\n\ @param\ qz3\ Quiz\ 3\ grade\ for\ the\ new\ student.\r\n\ @param\ qz4\ Quiz\ 4\ grade\ for\ the\ new\ student.\r\n\ @param\ qz5\ Quiz\ 5\ grade\ for\ the\ new\ student.\r\n
+comment5.params=myClass\ find
+comment5.target=void\ deleteStudent(java.util.List,\ java.lang.String)
+comment5.text=\r\n\ Method\ to\ delete\ a\ student.\r\n\ @param\ myClass\ Array\ list\ containing\ the\ names\ and\ grades\ of\ students.\r\n\ @param\ find\ Name\ of\ student\ to\ delete.\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Main\ method.\r\n
+numComments=7

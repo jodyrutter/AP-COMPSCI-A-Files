@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=name\ cost
+comment0.target=Truck(java.lang.String,\ double)
+comment0.text=\r\n\ Public\ constructor\ for\ objects\ of\ type\ Truck.\r\n\ @param\ name\ Truck\ name.\r\n\ @param\ cost\ Truck\ cost.\r\n
+numComments=1

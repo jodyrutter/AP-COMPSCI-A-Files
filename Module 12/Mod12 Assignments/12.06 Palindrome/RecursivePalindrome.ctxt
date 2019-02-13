@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RecursivePalindrome()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ type\ RecursivePalindrome\ (no\ parameters).\r\n
+comment1.params=
+comment1.target=void\ acceptInput()
+comment1.text=\r\n\ Method\ to\ prompt\ user\ for\ input,\ accept\ input,\ loop\ the\ method\ until\ the\ user\ enters\ "q",\ initialize\ the\ isPalindrome\ method,\ and\ print\ it's\ results\ (no\ parameters).\r\n
+comment2.params=input
+comment2.target=boolean\ isPalindrome(java.lang.String)
+comment2.text=\r\n\ Method\ to\ decide\ whether\ a\ word\ or\ phrase\ is\ a\ palindrome.\r\n\ @param\ input\ Parameter\ that\ will\ be\ tested\ to\ decide\ whether\ or\ not\ it\ is\ a\ palindrome.\r\n
+comment3.params=input
+comment3.target=java.lang.String\ helper(java.lang.String)
+comment3.text=\r\n\ Method\ that\ turns\ an\ input\ word\ or\ phrase\ into\ an\ all\ lowercase\ word\ or\ phrase\ with\ no\ punctuation\ to\ help\ isPalindrome\ decide\ whether\ that\ word\ or\ phrase\ is\ a\ palindrome.\r\n\ @param\ input\ Parameter\ that\ will\ be\ converted\ into\ an\ all\ lowercase\ word\ or\ phrase\ with\ no\ punctuation\ and\ fed\ back\ to\ isPalindrome.\r\n
+numComments=4

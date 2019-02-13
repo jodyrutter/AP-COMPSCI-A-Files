@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ sellProduct()
+comment0.text=\r\n\ Method\ to\ sell\ a\ product\ from\ a\ candy\ machine.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method.\r\n
+numComments=2

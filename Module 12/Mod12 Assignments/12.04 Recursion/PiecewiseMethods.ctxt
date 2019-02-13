@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PiecewiseMethods()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ type\ PiecewiseMethods\ (no\ parameters).\r\n
+comment1.params=x
+comment1.target=int\ piecewiseFunction1(int)
+comment1.text=\r\n\ 1st\ piecewise\ function\ of\ the\ class.\r\n\ @param\ x\ Parameter\ that\ decides\ the\ value\ of\ y\ in\ the\ 1st\ piecewise\ function.\r\n
+comment2.params=x
+comment2.target=int\ piecewiseFunction2(int)
+comment2.text=\r\n\ 2nd\ piecewise\ function\ of\ the\ class.\r\n\ @param\ x\ Parameter\ that\ desides\ the\ value\ of\ y\ in\ the\ 2nd\ piecewise\ function.\r\n
+comment3.params=x
+comment3.target=int\ piecewiseFunction3(int)
+comment3.text=\r\n\ 3rd\ piecewise\ function\ of\ the\ class.\r\n\ @param\ x\ Parameter\ that\ decides\ the\ value\ of\ y\ in\ the\ 3rd\ piecewise\ function.\r\n
+numComments=4

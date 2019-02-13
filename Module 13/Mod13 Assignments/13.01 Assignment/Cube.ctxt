@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=dimensions
+comment0.target=Cube(int)
+comment0.text=\r\n\ Public\ constructor\ for\ objects\ of\ type\ cube.\r\n\ @param\ dimensions\ Parameter\ to\ indicate\ the\ length\ of\ one\ side\ of\ the\ cube.\ On\ a\ cube,\ width\ \=\ height\ \=\ length.\ There\ is\ only\ the\ need\ for\ one\ parameter.\r\n
+numComments=1

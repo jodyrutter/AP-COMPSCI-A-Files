@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=sides
+comment0.target=Equilateral(double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ Equilateral.\r\n\ @param\ sides\ Parameter\ indicating\ the\ sides\ of\ an\ equilateral\ triangle.\ The\ value\ is\ to\ be\ input\ into\ the\ Triangle\ class\ and\ held\ constant\ for\ all\ 3\ sides.\r\n
+numComments=1

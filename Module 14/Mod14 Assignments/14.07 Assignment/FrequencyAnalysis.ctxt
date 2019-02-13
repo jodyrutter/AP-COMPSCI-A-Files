@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FrequencyAnalysis()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ FrequencyAnalysis.\r\n
+comment1.params=
+comment1.target=void\ inputForAnalysis()
+comment1.text=\r\n\ Method\ to\ read\ in\ data\ to\ analyze\ letter\ frequency.\r\n
+comment2.params=
+comment2.target=java.lang.String[]\ generateRegularAlphabet()
+comment2.text=\r\n\ Method\ to\ get\ the\ regular\ alphabet.\r\n\ @return\ an\ Array\ of\ the\ regular\ alphabet.\r\n
+comment3.params=words
+comment3.target=void\ analyze(java.util.ArrayList)
+comment3.text=\r\n\ Method\ to\ count\ the\ occurences\ of\ letters.\r\n\ @param\ words\ An\ array\ list\ containing\ data\ read\ in\ from\ file\ that\ will\ be\ used\ for\ analysis.\r\n
+numComments=4

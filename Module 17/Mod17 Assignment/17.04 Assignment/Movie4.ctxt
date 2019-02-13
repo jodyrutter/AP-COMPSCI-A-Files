@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=title\ year\ studio
+comment0.target=Movie4(java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ Movie2.\r\n\ @param\ title\ Title\ of\ a\ movie.\r\n\ @param\ year\ Year\ a\ movie\ was\ made.\r\n\ @param\ studio\ Studio\ that\ produced\ the\ movie.\r\n
+comment1.params=newTitle
+comment1.target=void\ setTitle(java.lang.String)
+comment1.text=\r\n\ Method\ to\ set\ a\ movie\ title.\r\n\ @param\ newTitle\ new\ title\ for\ the\ movie.\r\n
+comment2.params=newYear
+comment2.target=void\ setYear(int)
+comment2.text=\r\n\ Method\ to\ set\ a\ movie\ year.\r\n\ @param\ newYear\ new\ year\ the\ movie\ was\ made\ in.\r\n
+comment3.params=newStudio
+comment3.target=void\ setStudio(java.lang.String)
+comment3.text=\r\n\ Method\ to\ set\ the\ movie\ studio.\r\n\ @param\ newStudio\ new\ studio\ the\ movie\ was\ produced\ by.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ To\ string\ method.\r\n\ @return\ A\ string\ listing\ the\ movies,\ the\ years\ the\ movies\ were\ made\ in,\ and\ the\ studio\ the\ movies\ were\ produced\ by.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getTitle()
+comment5.text=\r\n\ Getter\ method\ to\ return\ the\ movie\ title.\r\n\ @return\ Movie\ title.\r\n
+comment6.params=
+comment6.target=int\ getYear()
+comment6.text=\r\n\ Getter\ method\ to\ return\ the\ year\ the\ movie\ was\ made\ in.\r\n\ @return\ Movie\ year.\r\n
+comment7.params=
+comment7.target=java.lang.String\ getStudio()
+comment7.text=\r\n\ Getter\ method\ to\ return\ the\ studio\ that\ produced\ the\ movie.\r\n\ @return\ Movie\ studio.\r\n
+numComments=8

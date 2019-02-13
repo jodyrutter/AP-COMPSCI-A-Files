@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=election
+comment0.target=void\ printVotes(java.util.List)
+comment0.text=\r\n\ Method\ to\ print\ candidates\ and\ their\ number\ of\ votes.\r\n\ @param\ election\ Array\ list\ of\ candidates\ and\ the\ number\ of\ votes\ they\ got.\r\n
+comment1.params=election
+comment1.target=int\ getTotal(java.util.List)
+comment1.text=\r\n\ Method\ to\ find\ the\ total\ votes\ cast\ in\ an\ election.\r\n\ @param\ election\ Array\ list\ of\ candidates\ and\ the\ numbet\ of\ votes\ they\ got.\r\n\ @return\ Total\ number\ of\ votes\ cast\ in\ an\ election.\r\n
+comment2.params=election
+comment2.target=void\ printResults(java.util.List)
+comment2.text=\r\n\ Method\ to\ print\ a\ table\ displaying\ the\ results\ of\ an\ election.\r\n\ @param\ election\ Array\ list\ of\ candidates\ and\ the\ numbet\ of\ votes\ they\ got.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ Main\ Method.\r\n
+numComments=4

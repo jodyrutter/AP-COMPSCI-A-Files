@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dispenser()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ type\ Dispenser.\r\n
+comment1.params=numberOfItems\ cost
+comment1.target=Dispenser(int,\ int)
+comment1.text=\r\n\ Two\ parameter\ constructor\ for\ objects\ of\ type\ Dispenser.\r\n\ @param\ numberOfItems\ Number\ of\ items\ purchased.\ Cannot\ be\ negative\ or\ 0.\r\n\ @param\ cost\ Cost\ of\ items.\ Cannot\ be\ negative\ or\ zero.\r\n
+comment2.params=
+comment2.target=void\ makeSale()
+comment2.text=\r\n\ Method\ to\ subtract\ 1\ from\ numberOfItems.\r\n
+comment3.params=
+comment3.target=int\ getCount()
+comment3.text=\r\n\ Getter\ method\ to\ return\ number\ of\ items.\r\n\ @return\ Number\ of\ items.\r\n
+comment4.params=
+comment4.target=int\ getProductCost()
+comment4.text=\r\n\ Getter\ method\ to\ return\ the\ cost\ of\ items.\r\n\ @return\ Cost\ of\ items.\r\n
+numComments=5

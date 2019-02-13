@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=legs
+comment0.target=IsoscelesRight(double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ type\ IsoscelesRight.\r\n\ @param\ legs\ Variable\ indicating\ the\ size\ of\ the\ legs\ of\ an\ isosceles\ right\ triangle.\r\n
+numComments=1

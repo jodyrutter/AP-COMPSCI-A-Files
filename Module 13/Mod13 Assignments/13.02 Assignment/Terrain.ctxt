@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=l\ w
+comment0.target=Terrain(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ terrain.\r\n\ @param\ l\ Parameter\ indicating\ the\ length\ of\ a\ game\ map.\r\n\ @param\ w\ Parameter\ indicating\ the\ width\ of\ a\ game\ map.\r\n
+comment1.params=
+comment1.target=java.lang.String\ terrainSize()
+comment1.text=\r\n\ Makes\ a\ string\ that\ contains\ the\ dimensions\ of\ a\ game\ map.\r\n\ @return\ String\ containing\ dimensions\ of\ a\ game\ map.\r\n
+numComments=2

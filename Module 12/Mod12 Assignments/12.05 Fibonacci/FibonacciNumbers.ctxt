@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FibonacciNumbers()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ type\ FibonacciNumbers\ (no\ parameters).\r\n
+comment1.params=
+comment1.target=void\ loopFibonacciNumber()
+comment1.text=\r\n\ Method\ to\ accept\ user\ input\ for\ fibonacciNumber\ place\ value,\ print\ the\ output\ from\ the\ fibonacciNumber\ method,\ and\ loop\ the\ method\ until\ the\ user\ enters\ "q"\ (no\ parameters).\r\n
+comment2.params=n
+comment2.target=int\ fibonacciNumber(int)
+comment2.text=\r\n\ Method\ to\ find\ the\ nth\ fibonacci\ number.\r\n\ @param\ n\ Variable\ that\ stands\ for\ the\ place\ value\ of\ a\ fibonacci\ number.\r\n
+numComments=3

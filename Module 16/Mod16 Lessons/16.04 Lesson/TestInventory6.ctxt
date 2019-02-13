@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=list
+comment1.target=void\ printInventory(java.util.List)
+comment2.params=list\ find\ replace
+comment2.target=void\ changeItem(java.util.List,\ java.lang.String,\ java.lang.String)
+comment3.params=list\ location\ addN\ addS
+comment3.target=void\ insertItem1(java.util.List,\ int,\ java.lang.String,\ int)
+comment4.params=list\ find\ addN\ addS
+comment4.target=void\ insertItem2(java.util.List,\ java.lang.String,\ java.lang.String,\ int)
+numComments=5

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getInput()
+comment0.text=\r\n\ This\ method\ asks\ the\ user\ to\ input\ a\ shift\ key\ value\ (0-25).\r\n\ @return\ the\ parsed\ shift\ key\ value.\r\n
+comment1.params=
+comment1.target=java.lang.String[]\ generateRegularAlphabet()
+comment1.text=\r\n\ Method\ to\ get\ the\ regular\ alphabet.\r\n\ @return\ an\ Array\ of\ the\ regular\ alphabet.\r\n
+comment2.params=
+comment2.target=java.lang.String[]\ generateCipherAlphabet()
+comment2.text=\r\n\ Method\ to\ perform\ Caesar\ Shift.\r\n\ @param\ shiftKey\ Parameter\ indicating\ the\ shift\ key\ of\ the\ Caesar\ Shift.\r\n\ @param\ textInput\ Message\ to\ perform\ the\ Caesar\ Shift\ on.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getTextInput()
+comment3.text=\r\n\ Prompt\ user\ to\ enter\ text\ input.\r\n\ @return\ user\ text\ input.\r\n
+comment4.params=
+comment4.target=void\ decryptMessage()
+comment4.text=\r\n\ Transform\ text\ input\ with\ Caesar\ Shift.\r\n
+numComments=5
